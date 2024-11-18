@@ -32,6 +32,9 @@ export default class PokemonFetcher extends Component {
 
 
 
+
+
+
     render() {
         return (
             <div>
